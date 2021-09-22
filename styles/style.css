@@ -1,0 +1,14 @@
+:root {
+    --main-color:#ffd600;
+    --secondary-color:#191919;
+    --third-color:#292929;
+}
+a {
+    text-decoration: none;
+}
+li {
+    list-style: none;
+}
+img {
+    width: 100%;
+}

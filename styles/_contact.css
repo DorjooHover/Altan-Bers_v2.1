@@ -1,0 +1,27 @@
+#contact img {
+    width: 35vw;
+}
+#contact_area {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+.contact_area_top {
+    font-size: 2rem;
+    padding: 0 2rem ;
+}
+.contact_area_top > h1 {
+    font-size: 2.5rem;
+    padding-bottom:1rem ;
+}
+
+.contact_area_top p {
+    padding: 0.5rem 0;
+}
+.contact_area_top p strong {
+    font-weight: bold;
+}
+
+.contact_area_top a {
+    color: #333;
+}

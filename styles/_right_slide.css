@@ -1,0 +1,20 @@
+#right_slide {
+    width: 30vw;
+    right: 0;
+}
+.swiper_right_slide {
+    position: static;
+    overflow: hidden;
+    width: 28vw;
+    right: 0;
+    
+}
+.swiper_right_slide .swiper-wrapper {
+    height: 90vh;
+}
+.swiper_right_slide img {
+    padding-left: 25%;
+    width: 100%;
+    height: inherit;
+    box-sizing: 0 5px 10px 0 var(--third-color);
+}

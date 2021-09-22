@@ -1,0 +1,42 @@
+.swiper_product .swiper-slide{
+    display: flex;
+    align-items: flex-start;
+    padding: 6rem 0;
+    background: rgba(0, 0, 0, 0.2);
+    overflow: hidden;
+    width: 70vw;
+}
+
+.swiper_product .swiper-slide img {
+    width: 20vw;
+    padding-left: 6rem;
+}
+.swiper_product .swiper-slide .section_product {
+    margin: 0 3rem;
+    font-size: 1.5rem;
+}
+.section_product h1 {
+    font-size: 3rem;
+    padding-bottom: 1rem;
+}
+.section_product p {
+    padding-bottom: 1rem;
+}
+.section_product li {
+    padding-bottom: 0.5rem;
+    list-style-type: circle;
+}
+.section_product a {
+    color: #eee;
+    font-weight: bold;
+    background: var(--main-color);
+    padding: 1rem 3rem ;
+    border-radius: 5%;
+    bottom: 6rem;
+    right: 6rem;
+    position: absolute;
+
+}
+.swiper_product {
+    overflow: hidden;
+}
